@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Submit</string>
+    <string name="app_title">MyWeather</string>
+    <string name="weather_url">http://api.openweathermap.org/</string>
+    <string name="weather_app_id">key값</string>
+    <string name="weather_seoul_id">1835848</string>
+</resources>
